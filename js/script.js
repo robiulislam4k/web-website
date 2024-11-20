@@ -1,3 +1,3 @@
 function navigateToPage() {
-  window.location.replace('index1.html');
+  window.location.replace('dekstop1.html');
   }
